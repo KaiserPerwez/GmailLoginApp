@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "776645669975",
+    "project_id": "loginapp-f7744"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776645669975:android:c278f2005b81a3a7",
+        "android_client_info": {
+          "package_name": "com.qtechie.gmailloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776645669975-8i516frm9gpskq2lbonn9op2qg4ddrgc.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "776645669975-inkofne4frjgrqdrosm73p38s4u172k0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qtechie.gmailloginapp",
+            "certificate_hash": "760650cee0ca6e025d67b99f290160d14069bc15"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_QQlsBNTXRjegdaYnF7u7N2JPTtzsI9M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
